@@ -1,0 +1,4 @@
+Kmeans clustering result with k = 3: 
+Cluster 0: 32940 samples
+Cluster 1: 33806 samples
+Cluster 2: 33254 samples
