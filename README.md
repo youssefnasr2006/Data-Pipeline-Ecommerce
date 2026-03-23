@@ -1,4 +1,4 @@
-# 🚀 Automated Big Data Pipeline: eCommerce Behavior Analysis
+# 🚀 Automated Big Data Pipeline: ECommerce Behavior Analysis
 
 ## 📝 Project Description
 This project implements a fully automated, containerized end-to-end data pipeline using **Docker**. The pipeline processes a massive eCommerce dataset through five distinct stages: Ingestion, Preprocessing, Statistical Analytics, Visualization, and Machine Learning (Clustering). All outputs are automatically extracted from the container to the local host directory via a shell script.
